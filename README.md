@@ -53,7 +53,3 @@ The results for Hierarchical Clustering are stored in the DataFrame result2df.
 ## Birch Clustering
 
 The results for Birch Clustering are stored in the DataFrame result3df.
-
-
-Make sure to replace the placeholders such as file paths, dataset names, and other specific details with the correct information from your script. This README file will help users understand how to use your script and interpret the results it generates.
-
