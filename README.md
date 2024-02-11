@@ -21,8 +21,9 @@ The following clustering methods are used:
 5. sklearn.metrics
 
 You can install the required dependencies using pip:
+```
 pip install jupyter pandas sklearn.metrics numpy pycaret
-
+```
 ## Notebook Information
 
 This notebook was originally created in Google Colab. You can access the original notebook [here](https://colab.research.google.com/drive/15gpAww3HiQ3kRRLWp5qcxjKl4HOrqZ9h).
